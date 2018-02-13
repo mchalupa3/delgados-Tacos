@@ -7,3 +7,6 @@ C:\Users\mc137344\AppData\Local\Temporary Projects\DelgadosTacos\obj\Debug\Delga
 C:\Users\mc137344\Desktop\C#\DelgadosTacos\DelgadosTacos\bin\Debug\DelgadosTacos.exe.config
 C:\Users\mc137344\Desktop\C#\DelgadosTacos\DelgadosTacos\obj\Debug\DelgadosTacos.exe
 C:\Users\mc137344\Desktop\C#\DelgadosTacos\DelgadosTacos\obj\Debug\DelgadosTacos.pdb
+C:\Users\mc137344\Desktop\C#\delgados-Tacos\DelgadosTacos\DelgadosTacos\bin\Debug\DelgadosTacos.exe.config
+C:\Users\mc137344\Desktop\C#\delgados-Tacos\DelgadosTacos\DelgadosTacos\obj\Debug\DelgadosTacos.exe
+C:\Users\mc137344\Desktop\C#\delgados-Tacos\DelgadosTacos\DelgadosTacos\obj\Debug\DelgadosTacos.pdb
